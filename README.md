@@ -29,9 +29,3 @@ This project queries Apple App Store datasets using SQL to answer key business a
 - **Environment:** SQLiteOnline / DB Browser for SQLite *(or update to match yours)*
 
 ---
-
-
-
-## 🙌 Acknowledgements
-
-Dataset sourced from Kaggle's publicly available Apple App Store dataset for educational purposes.
